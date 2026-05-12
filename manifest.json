@@ -1,0 +1,17 @@
+{
+  "name": "FX Session Clock",
+  "short_name": "FX Sessions",
+  "description": "Track major forex market sessions with live countdowns.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101820",
+  "theme_color": "#101820",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#101820" />
+  <meta name="description" content="Track major forex market sessions with live countdowns." />
+  <title>FX Session Clock</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Forex market hours</p>
+        <h1>FX Session Clock</h1>
+      </div>
+      <div class="time-card" aria-live="polite">
+        <span>Your time</span>
+        <strong id="local-time">--:--:--</strong>
+      </div>
+    </header>
+
+    <section class="status-band">
+      <div>
+        <p class="eyebrow">Active now</p>
+        <h2 id="active-summary">Checking sessions...</h2>
+      </div>
+      <div class="next-card">
+        <span>Next change</span>
+        <strong id="next-change">--</strong>
+      </div>
+    </section>
+
+    <section class="session-grid" id="session-grid" aria-label="Forex sessions"></section>
+
+    <section class="insight-grid">
+      <article class="focus-panel">
+        <div>
+          <p class="eyebrow">Pairs in focus</p>
+          <h2 id="pair-heading">Session watchlist</h2>
+        </div>
+        <div class="pair-list" id="pair-list"></div>
+      </article>
+
+      <article class="alert-panel">
+        <div>
+          <p class="eyebrow">Session reminders</p>
+          <h2>Opening alerts</h2>
+        </div>
+        <button class="alert-button" id="alert-button" type="button">Enable alerts</button>
+        <p class="alert-copy" id="alert-copy">Get a browser notification shortly before a major session opens.</p>
+      </article>
+    </section>
+
+    <section class="overlap-panel">
+      <div>
+        <p class="eyebrow">High activity windows</p>
+        <h2>Session Overlaps</h2>
+      </div>
+      <div class="overlap-list">
+        <article>
+          <strong>London + New York</strong>
+          <span>13:00-17:00 UTC</span>
+        </article>
+        <article>
+          <strong>Tokyo + London</strong>
+          <span>08:00-09:00 UTC</span>
+        </article>
+        <article>
+          <strong>Sydney + Tokyo</strong>
+          <span>00:00-06:00 UTC</span>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

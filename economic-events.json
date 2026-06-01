@@ -1,17 +1,17 @@
 [
   {
-    "title": "Non-Farm Payrolls",
+    "title": "ISM Manufacturing PMI",
     "currency": "USD",
     "impact": "high",
-    "timeUtc": "2026-06-05T12:30:00Z",
+    "timeUtc": "2026-06-01T03:30:00Z",
     "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
   },
   {
-    "title": "US CPI Inflation",
-    "currency": "USD",
+    "title": "BOE Gov Bailey Speaks",
+    "currency": "GBP",
     "impact": "high",
-    "timeUtc": "2026-06-10T12:30:00Z",
-    "pairs": ["EUR/USD", "USD/JPY", "XAU/USD"]
+    "timeUtc": "2026-06-02T03:00:00Z",
+    "pairs": ["GPB/USD", "EUR/GBP", "GPB/JPY"]
   },
   {
     "title": "Bank of England Rate Decision",

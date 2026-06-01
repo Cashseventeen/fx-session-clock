@@ -3,14 +3,14 @@
     "title": "ISM Manufacturing PMI",
     "currency": "USD",
     "impact": "high",
-    "timeUtc": "2026-06-01T03:30:00Z",
+    "timeUtc": "2026-06-01T15:30:00Z",
     "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
   },
   {
     "title": "BOE Gov Bailey Speaks",
     "currency": "GBP",
     "impact": "high",
-    "timeUtc": "2026-06-02T03:00:00Z",
+    "timeUtc": "2026-06-02T15:00:00Z",
     "pairs": ["GPB/USD", "EUR/GBP", "GPB/JPY"]
   },
   {

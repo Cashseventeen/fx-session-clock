@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Non-Farm Payrolls",
+    "currency": "USD",
+    "impact": "high",
+    "timeUtc": "2026-06-05T12:30:00Z",
+    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
+  },
+  {
+    "title": "US CPI Inflation",
+    "currency": "USD",
+    "impact": "high",
+    "timeUtc": "2026-06-10T12:30:00Z",
+    "pairs": ["EUR/USD", "USD/JPY", "XAU/USD"]
+  },
+  {
+    "title": "Bank of England Rate Decision",
+    "currency": "GBP",
+    "impact": "high",
+    "timeUtc": "2026-06-18T11:00:00Z",
+    "pairs": ["GBP/USD", "EUR/GBP", "GBP/JPY"]
+  },
+  {
+    "title": "ECB Rate Decision",
+    "currency": "EUR",
+    "impact": "high",
+    "timeUtc": "2026-06-25T12:15:00Z",
+    "pairs": ["EUR/USD", "EUR/GBP", "EUR/JPY"]
+  }
+]

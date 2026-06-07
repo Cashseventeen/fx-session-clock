@@ -1,23 +1,79 @@
 [
   {
-    "title": "ISM Manufacturing PMI",
+    "title": "CORE CPI M/M",
     "currency": "USD",
     "impact": "high",
-    "timeUtc": "2026-06-01T15:30:00Z",
+    "timeUtc": "2026-06-10T07:30:00Z",
     "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
   },
   {
-    "title": "BOE Gov Bailey Speaks",
-    "currency": "GBP",
+    "title": "CORE CPI Y/Y",
+    "currency": "USD",
     "impact": "high",
-    "timeUtc": "2026-06-02T15:00:00Z",
-    "pairs": ["GPB/USD", "EUR/GBP", "GPB/JPY"]
+    "timeUtc": "2026-06-10T07:30:00Z",
+    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
   },
   {
-    "title": "Bank of England Rate Decision",
+    "title": "BOE  RATE STATEMENT",
+    "currency": "CAD",
+    "impact": "high",
+    "timeUtc": "2026-06-10T08:45:00Z",
+    "pairs": ["USD/CAD", "EUR/CAD", "CAD/JPY"]
+  },
+  {
+    "title": "OVERNIGHT RATE",
+    "currency": "CAD",
+    "impact": "high",
+    "timeUtc": "2026-06-10T08:45:00Z",
+    "pairs": ["USD/CAD", "EUR/CAD", "CAD/JPY"]
+  },
+  {
+    "title": "BOS PRESS CONFERENCE",
+    "currency": "CAD",
+    "impact": "high",
+    "timeUtc": "2026-06-10T09:30:00Z",
+    "pairs": ["USD/CAD", "EUR/CAD", "CAD/JPY"]
+  },
+  {
+    "title": "MAIN REFINANCING RATE",
+    "currency": "EUR",
+    "impact": "high",
+    "timeUtc": "2026-06-11T07:15:00Z",
+    "pairs": ["EUR/USD", "EUR/CAD", "EUR/JPY"]
+  },
+ {
+    "title": "MONETARY POLICY STATEMENT",
+    "currency": "EUR",
+    "impact": "high",
+    "timeUtc": "2026-06-11T07:15:00Z",
+    "pairs": ["EUR/USD", "EUR/CAD", "EUR/JPY"]
+  },
+  {
+    "title": "CORE CPI M/M",
+    "currency": "USD",
+    "impact": "high",
+    "timeUtc": "2026-06-11T07:30:00Z",
+    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
+  },
+  {
+    "title": "PPI M/M",
+    "currency": "USD",
+    "impact": "high",
+    "timeUtc": "2026-06-11T07:30:00Z",
+    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
+  },
+   {
+    "title": "ECB PRESS CONFERENCE",
+    "currency": "EUR",
+    "impact": "high",
+    "timeUtc": "2026-06-11T07:45:00Z",
+    "pairs": ["EUR/USD", "EUR/CAD", "EUR/JPY"]
+  },
+   {
+    "title": "GDP M/M",
     "currency": "GBP",
     "impact": "high",
-    "timeUtc": "2026-06-18T11:00:00Z",
-    "pairs": ["GBP/USD", "EUR/GBP", "GBP/JPY"]
+    "timeUtc": "2026-06-12T01:00:00Z",
+    "pairs": ["GBP/USD", "GPB/CAD", "GBP/JPY"]
   }
 ]

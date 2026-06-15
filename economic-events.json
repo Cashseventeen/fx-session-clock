@@ -1,79 +1,127 @@
 [
   {
-    "title": "CORE CPI M/M",
-    "currency": "USD",
+    "title": "BOJ POLICY RATE",
+    "currency": "JPY",
     "impact": "high",
-    "timeUtc": "2026-06-10T07:30:00Z",
-    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
+    "timeUtc": "2026-06-16T03:00:00Z",
+    "pairs": ["EUR/JPY", "GBP/JPY", "USD/JPY", "CAD/JPY", "AUD/JPY,"]
   },
   {
-    "title": "CORE CPI Y/Y",
-    "currency": "USD",
+   "title": "MONETARY POLICY STATEMENT",
+    "currency": "JPY",
     "impact": "high",
-    "timeUtc": "2026-06-10T07:30:00Z",
-    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
+    "timeUtc": "2026-06-16T03:00:00Z",
+    "pairs": ["EUR/JPY", "GBP/JPY", "USD/JPY", "CAD/JPY", "AUD/JPY"]
   },
   {
-    "title": "BOE  RATE STATEMENT",
-    "currency": "CAD",
+    "title": "CASH RATE",
+    "currency": "AUD",
     "impact": "high",
-    "timeUtc": "2026-06-10T08:45:00Z",
-    "pairs": ["USD/CAD", "EUR/CAD", "CAD/JPY"]
+    "timeUtc": "2026-06-16T05:30:00Z",
+    "pairs": ["AUD/USD", "AUD/CAD", "AUD/JPY","AUD/CHF","AUD/NZD"]
+  },
+  { "title": "RBA RATE STATEMENT",
+    "currency": "AUD",
+    "impact": "high",
+    "timeUtc": "2026-06-16T05:30:00Z",
+    "pairs": ["AUD/USD", "AUD/CAD", "AUD/JPY","AUD/CHF","AUD/NZD"]
   },
   {
-    "title": "OVERNIGHT RATE",
-    "currency": "CAD",
+    "title": "RBA PRESS  CONFERENCE",
+    "currency": "AUD",
     "impact": "high",
-    "timeUtc": "2026-06-10T08:45:00Z",
-    "pairs": ["USD/CAD", "EUR/CAD", "CAD/JPY"]
+    "timeUtc": "2026-06-16T06:30:00Z",
+    "pairs": ["AUD/USD", "AUD/CAD", "AUD/JPY","AUD/CHF","AUD/NZD"]
   },
   {
-    "title": "BOS PRESS CONFERENCE",
-    "currency": "CAD",
+    "title": "BOJ PRESS CONFERENCE",
+    "currency": "JPY",
     "impact": "high",
-    "timeUtc": "2026-06-10T09:30:00Z",
-    "pairs": ["USD/CAD", "EUR/CAD", "CAD/JPY"]
-  },
-  {
-    "title": "MAIN REFINANCING RATE",
-    "currency": "EUR",
-    "impact": "high",
-    "timeUtc": "2026-06-11T07:15:00Z",
-    "pairs": ["EUR/USD", "EUR/CAD", "EUR/JPY"]
+    "timeUtc": "2026-06-16T06:30:00Z",
+    "pairs": ["EUR/JPY", "GBP/JPY", "USD/JPY", "CAD/JPY", "AUD/JPY"]
   },
  {
-    "title": "MONETARY POLICY STATEMENT",
-    "currency": "EUR",
-    "impact": "high",
-    "timeUtc": "2026-06-11T07:15:00Z",
-    "pairs": ["EUR/USD", "EUR/CAD", "EUR/JPY"]
-  },
-  {
-    "title": "CORE CPI M/M",
-    "currency": "USD",
-    "impact": "high",
-    "timeUtc": "2026-06-11T07:30:00Z",
-    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
-  },
-  {
-    "title": "PPI M/M",
-    "currency": "USD",
-    "impact": "high",
-    "timeUtc": "2026-06-11T07:30:00Z",
-    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
-  },
-   {
-    "title": "ECB PRESS CONFERENCE",
-    "currency": "EUR",
-    "impact": "high",
-    "timeUtc": "2026-06-11T07:45:00Z",
-    "pairs": ["EUR/USD", "EUR/CAD", "EUR/JPY"]
-  },
-   {
-    "title": "GDP M/M",
+    "title": "CPY Y/Y",
     "currency": "GBP",
     "impact": "high",
-    "timeUtc": "2026-06-12T01:00:00Z",
-    "pairs": ["GBP/USD", "GPB/CAD", "GBP/JPY"]
-  }
+    "timeUtc": "2026-06-17T07:00:00Z",
+    "pairs": ["GBP/USD", "GBP/JPY", "GBP/CAD", "GBP/AUD", "GBP/CHF"]
+  },
+  {
+    "title": "FEDERAL FUNDS RATE",
+    "currency": "USD",
+    "impact": "high",
+    "timeUtc": "2026-06-17T19:00:00Z",
+    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
+  },
+  {
+    "title": "FOMC ECONOMIC PROJECTION",
+    "currency": "USD",
+    "impact": "high",
+    "timeUtc": "2026-06-17T19:00:00Z",
+    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
+  },
+   {
+   "title": "FOMC STATEMENT",
+    "currency": "USD",
+    "impact": "high",
+    "timeUtc": "2026-06-17T19:00:00Z",
+    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
+  },
+   {
+     "title": "FOMC PRESS CONFERENCE",
+    "currency": "USD",
+    "impact": "high",
+    "timeUtc": "2026-06-17T19:30:00Z",
+    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD"]
+  },
+  {
+     "title": "GDP Q/Q",
+    "currency": "NZD",
+    "impact": "high",
+    "timeUtc": "2026-06-17T21:45:00Z",
+    "pairs": ["NZD/USD", "NZD/CAD", "EUR/NZD"]
+  },
+  {
+     "title": "CLAIMANT COUNT CHANGE",
+    "currency": "GBP",
+    "impact": "high",
+    "timeUtc": "2026-06-18T07:00:00Z",
+    "pairs": ["GBP/USD", "GBP/JPY", "GBP/CAD", "GBP/AUD", "GBP/CHF"]
+  },
+  {
+     "title": "SNB MONETARY POLICY ASSESSMENT",
+    "currency": "CHF",
+    "impact": "high",
+    "timeUtc": "2026-06-18T08:30:00Z",
+    "pairs": ["USD/CHF", "CHF/JPY", "GBP/CHF", "NZD/CHF", "EUR/CHF", "AUD/CHF"]
+  },
+  {
+     "title": "SNB MONETARY RATE",
+    "currency": "CHF",
+    "impact": "high",
+    "timeUtc": "2026-06-18T08:30:00Z",
+    "pairs": ["USD/CHF", "CHF/JPY", GBP/CHF, NZD/CHF, EUR/CHF, AUD/CHF"]
+  },
+  {
+     "title": "SNB PRESS CONFERENCE",
+    "currency": "CHF",
+    "impact": "high",
+    "timeUtc": "2026-06-18T09:00:00Z",
+    "pairs": ["USD/CHF", "CHF/JPY", "GBP/CHF", "NZD/CHF", "EUR/CHF", "AUD/CHF"]
+  },
+    {
+     "title": "MONETARY POLICY SUMMARY",
+    "currency": "GBP",
+    "impact": "high",
+    "timeUtc": "2026-06-18T12:00:00Z",
+    "pairs": ["GBP/USD", "GBP/JPY", "GBP/CAD", "GBP/AUD", "GBP/CHF"]
+  },
+    {
+     "title": "MPC OFFICIAL BANK RATE VOTE",
+    "currency": "GBP",
+    "impact": "high",
+    "timeUtc": "2026-06-18T12:00:00Z",
+    "pairs": ["GBP/USD", "GBP/JPY", "GBP/CAD", "GBP/AUD", "GBP/CHF"]
+  },
 ]

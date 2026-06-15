@@ -101,7 +101,7 @@
     "currency": "CHF",
     "impact": "high",
     "timeUtc": "2026-06-18T08:30:00Z",
-    "pairs": ["USD/CHF", "CHF/JPY", GBP/CHF, NZD/CHF, EUR/CHF, AUD/CHF"]
+    "pairs": ["USD/CHF", "CHF/JPY", "GBP/CHF", "NZD/CHF", "EUR/CHF", "AUD/CHF"]
   },
   {
      "title": "SNB PRESS CONFERENCE",

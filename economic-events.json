@@ -123,5 +123,5 @@
     "impact": "high",
     "timeUtc": "2026-06-18T12:00:00Z",
     "pairs": ["GBP/USD", "GBP/JPY", "GBP/CAD", "GBP/AUD", "GBP/CHF"]
-  },
+  }
 ]

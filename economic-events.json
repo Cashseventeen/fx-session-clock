@@ -1,78 +1,51 @@
 [
   {
-    "title": "CPI M/M",
+    "title": "GDP M/M",
     "currency": "CAD",
     "impact": "high",
-    "timeUtc": "2026-06-22T08:30:00Z",
+    "timeUtc": "2026-06-30T08:30:00Z",
     "pairs": ["USD/CAD", "GBP/CAD", "CAD/JPY", "EUR/CAD", "AUD/CAD"]
   },
    {
-    "title": "MEDIAN CPI Y/Y",
-    "currency": "CAD",
+    "title": "BOE GOV BAILEY SPEAKS",
+    "currency": "GBP",
     "impact": "high",
-    "timeUtc": "2026-06-22T08:30:00Z",
-    "pairs": ["USD/CAD", "GBP/CAD", "CAD/JPY", "EUR/CAD", "AUD/CAD"]
+    "timeUtc": "2026-07-01T09:00:00Z",
+    "pairs": ["GPB/USD", "GBP/CAD", "GPB/JPY"]
   },
    {
-    "title": "TRIMMED CPI Y/Y",
-    "currency": "CAD",
-    "impact": "high",
-    "timeUtc": "2026-06-22T08:30:00Z",
-    "pairs": ["USD/CAD", "GBP/CAD", "CAD/JPY", "EUR/CAD", "AUD/CAD"]
-  },
-  { "title": "RBA RATE STATEMENT",
-    "currency": "AUD",
-    "impact": "high",
-    "timeUtc": "2026-06-16T05:30:00Z",
-    "pairs": ["AUD/USD", "AUD/CAD", "AUD/JPY","AUD/CHF","AUD/NZD"]
-  },
-  {
-    "title": "CPI M/M",
-    "currency": "AUD",
-    "impact": "high",
-    "timeUtc": "2026-06-24T02:30:00Z",
-    "pairs": ["AUD/USD", "AUD/CAD", "AUD/JPY","AUD/CHF","AUD/NZD"]
-  },
-  {
-    "title": "CPI Y/Y",
-    "currency": "AUD",
-    "impact": "high",
-    "timeUtc": "2026-06-24T02:30:00Z",
-    "pairs": ["AUD/USD", "AUD/CAD", "AUD/JPY","AUD/CHF","AUD/NZD"]
-  },
- {
-    "title": "TRIMMED MEAN CPI M/M",
-    "currency": "AUD",
-    "impact": "high",
-    "timeUtc": "2026-06-24T02:30:00Z",
-    "pairs": ["AUD/USD", "AUD/CAD", "AUD/JPY","AUD/CHF","AUD/NZD"]
-  },
- {
-    "title": "EMPLOYMENT CHANGE",
-    "currency": "AUD",
-    "impact": "high",
-    "timeUtc": "2026-06-25T02:30:00Z",
-    "pairs": ["AUD/USD", "AUD/CAD", "AUD/JPY","AUD/CHF","AUD/NZD"]
-  },
- {
-    "title": "UNEMPLOYMENT RATE",
-    "currency": "AUD",
-    "impact": "high",
-    "timeUtc": "2026-06-25T02:30:00Z",
-    "pairs": ["AUD/USD", "AUD/CAD", "AUD/JPY","AUD/CHF","AUD/NZD"]
-  },
-   {
-   "title": "CORE PCE PRICE INDEX M/M",
+    "title": "FED CHAIRMAN WARSH SPEAK",
     "currency": "USD",
     "impact": "high",
-    "timeUtc": "2026-06-25T13:30:00Z",
-    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD", "USD/CD"]
+    "timeUtc": "2026-07-01T09:00:00Z",
+    "pairs": ["USD/CAD", "GBP/USD", "EUR/USD", "USD/JPY", "XAU/USD"]
   },
-    {
-   "title": "FINAL GDP Q/Q",
+  { 
+     "title": "ISM MANUFACTURING PMI",
     "currency": "USD",
     "impact": "high",
-    "timeUtc": "2026-06-25T13:30:00Z",
-    "pairs": ["EUR/USD", "GBP/USD", "USD/JPY", "XAU/USD", "USD/CD"]
+    "timeUtc": "2026-07-01T10:00:00Z",
+    "pairs": ["USD/CAD", "GBP/USD", "EUR/USD", "USD/JPY", "XAU/USD"]
+  },
+  {
+    "title": "AVERAGE HOURLY EARNINGS M/M",
+    "currency": "USD",
+    "impact": "high",
+    "timeUtc": "2026-07-02T08:30:00Z",
+    "pairs": ["USD/CAD", "GBP/USD", "EUR/USD", "USD/JPY", "XAU/USD"]
+  },
+  {
+   "title": "NON-FARM EMPLOYMENT CHANGE",
+    "currency": "USD",
+    "impact": "high",
+    "timeUtc": "2026-07-02T08:30:00Z",
+    "pairs": ["USD/CAD", "GBP/USD", "EUR/USD", "USD/JPY", "XAU/USD"]
+  },
+ {
+    "title": "UMPLOYMENT RATE",
+    "currency": "USD",
+    "impact": "high",
+    "timeUtc": "2026-07-02T08:30:00Z",
+    "pairs": ["USD/CAD", "GBP/USD", "EUR/USD", "USD/JPY", "XAU/USD"]
   }
 ]
